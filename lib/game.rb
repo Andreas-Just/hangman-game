@@ -22,7 +22,7 @@ class Game
   end
 
   def errors_made
-    errors.length
+    errors.size
   end
 
   def errors_allowed
